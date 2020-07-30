@@ -1,5 +1,0 @@
-to-vfile
-vfile-reporter
-remark-stringify
-remark-parse-yaml
-rehype-raw
